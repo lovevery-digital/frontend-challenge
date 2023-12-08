@@ -37,12 +37,11 @@ The goal of this exercise is to build a reusable React component and to place it
 
 This activity is intentionally open-ended and aims to gauge your general approach to React development. The following themes will be considered during review:
 
-1. Code organization
-1. Data variations
-1. Responsiveness
-1. Type-safety
-1. Testing
+1. **Technical Expertise**: Showcasing proficiency in React and TypeScript, emphasizing effective code organization and type-safe practices.
+1. **Code Quality**: Demonstrating clean, adaptable coding with a robust approach to testing, ensuring efficiency and readability for various data structures.
+1. **Problem Solving**: Exhibiting innovative, responsive solutions that effectively function across different devices and screen sizes.
+1. **Product Awareness**: Understanding the impact of development decisions on the end-user experience and the overall product.
 
 ## Submission
 
-Once you're done, please email us with an archive of your repository.
+Once you're done, please email us with an archive of your repository. Kindly write a README detailing a description of your solution. This will help us understand your technical approach, design decisions and your ability to effectively communicate and document your work.
